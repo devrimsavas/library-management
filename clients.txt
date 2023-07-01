@@ -1,0 +1,5 @@
+05-04-2023      │mehmet uzum                                │1984                                         │uzum@gmail.com           │3453553          │
+05-04-2023      │Devrim Bey                                 │Animal Farm                                  │devo@gmail.com           │3423422          │
+05-04-2023      │Malin hanim                                │The Hobbit                                   │malin@gmail.com          │2424224          │
+05-04-2023      │Ahmet Gemici                               │1984                                         │ahmetgemisi@gmail.com    │679877989        │
+05-04-2023      │Hasan Deniz                                │Tropic of Cancer                             │hasan@gmail.com          │33535353         │
